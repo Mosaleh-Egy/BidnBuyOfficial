@@ -5,7 +5,7 @@ const Footer = props => {
   return (
     <footer className='footer'>
       <p className='small-text-white'>
-        Created by Leyla and team using the MERN Stack.
+      © Copyright InovaTech Inc. created 2023.
       </p>
     </footer>
   );

@@ -4,8 +4,8 @@ Bid n Buy Auction Website created by InovaTech Inc.
 
 ## DESCRIPTION
 
-A full stack auction website created using the MERN Stack
-Introducing an innovative online auction platform that is commited to creating an atmosphere of trust and integrity among users. Our platform aims to provide a unique experience where users can buy and sell items with complete confidence, feeling assured that they are dealing with honest and upright individuals.
+A full stack auction website created using the MEARN Stack
+Introducing an innovative online auction platform that is committed to creating an atmosphere of trust and integrity among users. Our platform aims to provide a unique experience where users can buy and sell items with complete confidence, feeling assured that they are dealing with honest and upright individuals.
 
 
 ## TABLE OF CONTENT
@@ -23,12 +23,12 @@ Introducing an innovative online auction platform that is commited to creating a
 
 ## INSTALLATION/USAGE
 
-Following criteris met: 
+Following criteria met: 
 -protect sensitive API key information on serer.
--included README file( with text, desription. screebshorts, link of deployed app)
+-included README file( with text, description. screenshots, link of deployed app)
 
-Apollo Server to be used with graphql queries as well as mutations to fetch and modefy data.
-Authentication to be connested with APIs
+Apollo Server to be used with graphql queries as well as mutations to fetch and modify data.
+Authentication to be connected with APIs
 
 Install server dependencies: bash
 npm install
@@ -44,7 +44,7 @@ npm run test
 
 Final steps will include:
 -repository in github
--deployment of applicaiton to Heroku (Heroku to be connected to github ripository)
+-deployment of application to Heroku (Heroku to be connected to github repository)
 
 
 ## TECHNOLOGIES
@@ -54,11 +54,11 @@ Project is created with:
 -React as front end.
 -GraphQL with a Node.js and Express.js server.
 -databases: MongoDB and Mongoose ODM.
--Queries and utations used for retrieving, adding, updating and deleting data.
+-Queries and mutations used for retrieving, adding, updating and deleting data.
 -polished UI used.
 -deployed using Heroku.
 -it is interactive , accepts and responds to user input.
--Auhtntication included.
+-Authentication included.
  
 ## FEATURES
 
@@ -76,7 +76,7 @@ Ryan Reid
 MIT 
 
 ## GitHub/HEROKU
-Heroku: 
+Heroku: place Link here 
 
 GitHub:https://github.com/Mosaleh-Egy/BidnBuyOfficial
 
@@ -91,5 +91,5 @@ GitHub: https://github.com/leig1974
 
 ## EMAILS
 
-Email: inovaTech@inovaTech.com
-Email: bidnbuy@inovaTech.com
+Email: InovaTech@InovaTech.com
+Email: Bidnbuy@InovaTech.com

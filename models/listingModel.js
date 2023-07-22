@@ -47,4 +47,49 @@ const ListingSchema = new mongoose.Schema({
     type: mongoose.Schema.ObjectId,
     ref: 'user'
   },
-  
+  category: {
+    type: String
+  },
+  endDate: {
+    type: Date,
+    required: true
+  },
+  condition: {
+    type: String,
+    enum: ['unspecified', 'used', 'new'],
+    default: 'unspecified'
+  },
+  bids: [
+    {
+      user: {
+        type: mongoose.Schema.ObjectId,
+        ref: 'user',
+        required: true
+      },
+      bid: {
+        type: Number,
+        required: true
+      },
+      createdAt: {
+        type: Date,
+        default: Date.now()
+      }
+    }
+  ],
+  shipped: {
+    type: Date
+  },
+  active: { type: Boolean, default: true }
+});
+
+//sets the current price to the starting price
+ListingSchema.pre('save', function(next) {
+  if (!this.currentPrice) {
+    this.currentPrice = this.startPrice;
+  }
+  next();
+});
+
+const Listing = mongoose.model('Listing', ListingSchema);
+
+module.exports = Listing;

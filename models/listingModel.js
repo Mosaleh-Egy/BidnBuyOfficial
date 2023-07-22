@@ -27,4 +27,24 @@ const ListingSchema = new mongoose.Schema({
   createdAt: {
     type: Date,
     default: Date.now()
-  }
+  },
+
+  image: {
+    type: String
+  },
+  currentPrice: { type: Number },
+  startPrice: {
+    type: Number,
+    required: true,
+    default: 0
+  },
+  minIncrement: {
+    type: Number,
+    required: true,
+    default: 0
+  },
+  createdBy: {
+    type: mongoose.Schema.ObjectId,
+    ref: 'user'
+  },
+  

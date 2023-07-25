@@ -54,6 +54,17 @@ MIT
 ## Features  
 
 -place images and videos
+![site pix 1](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/cbf84ef9-d3d1-4d56-973e-36aff153e519)
+
+![site pix 2](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/083d8784-2817-418e-8ebd-7b96a2944c15)
+
+![site pix 3](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/fc4b340b-cfef-4174-82a3-5e8d829f9b86)
+
+![site pix 4 (1)](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/c7dd8a3d-f9c5-499a-9494-ef3594cdb357)
+
+![site pix 5](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/cda0973f-2373-4a66-ad4a-45200a3b1cd9)
+
+![site pix 6](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/121817713/b4550914-03c3-4075-8d27-08c0d6f136c5)
 
 Technology Used:
 

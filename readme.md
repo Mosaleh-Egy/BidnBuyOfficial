@@ -5,6 +5,9 @@
 
 ## Description
 
+![inova2](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/123789106/5805b2df-a7df-4642-987a-e7d23da129b3)
+
+
 A full stack auction website created using the MEARN Stack Introducing an innovative online auction platform that is committed to creating an atmosphere of trust and integrity among users. Our platform aims to provide a unique experience where users can buy and sell items with complete confidence, feeling assured that they are dealing with honest and upright individuals.
 
 
@@ -26,6 +29,9 @@ A full stack auction website created using the MEARN Stack Introducing an innova
 
 ## Installation/Usage
 
+![inova1](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/123789106/4eb4abaf-a9d0-4b78-91c5-04e2cf02c39e)
+
+
 Following criteria met: -protect sensitive API key information on serer. -included README file( with text, description. screenshots, link of deployed app)
 
 Apollo Server to be used with graphql queries as well as mutations to fetch and modify data. Authentication to be connected with APIs
@@ -39,6 +45,9 @@ Final steps will include: -repository in github -deployment of application to He
 
 
 ## Credits
+
+![inova3](https://github.com/Mosaleh-Egy/BidnBuyOfficial/assets/123789106/6e3a5067-0998-4452-be60-193be05c01c8)
+
 
 Mohammed Saleh 
 

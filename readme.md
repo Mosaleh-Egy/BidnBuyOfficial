@@ -1,5 +1,8 @@
 # Bid n Buy Auction Website created by InovaTech Inc.
 
+Live Link:http://16.171.161.230:3000/
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
